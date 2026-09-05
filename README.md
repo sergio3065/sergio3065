@@ -13,7 +13,6 @@ Sou um desenvolvedor focado em criar interfaces e experiências incríveis na we
 
 ### 📊 Minhas Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergio3065&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio3065&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sergio3065&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio3065&layout=compact&langs_count=7&theme=tokyonight&v=1)
